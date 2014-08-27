@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-  
+# @author : 2012-05-10
 import hashlib  
 import os  
 import wx  
